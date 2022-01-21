@@ -154,7 +154,7 @@
         for (let i = 1; i < rows.length; i++) {
             console.log(rows[i])
 
-            let title = rows[i].getElementsByTagName("td")[0].innerText.toLowerCase()
+            let title = rows[i].getElementsByTagName("td")[2].innerText.toLowerCase()
             let author = rows[i].getElementsByTagName("td")[1].innerText.toLowerCase()
             if (title.indexOf(search) > -1 || author.indexOf(search) > -1) {
                 rows[i].style.display = ""
