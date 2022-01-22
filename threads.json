@@ -6,8 +6,8 @@
         "author_link": "https://aimware.net/forum/user/283534",
         "author_group": "vip",
         "replies": "2",
-        "views": "456",
-        "thread_count": 12
+        "views": "459",
+        "thread_count": 7
     },
     {
         "link": "https://aimware.net/forum/thread/157722",
@@ -16,8 +16,8 @@
         "author_link": "https://aimware.net/forum/user/471999",
         "author_group": "beta",
         "replies": "2",
-        "views": "682",
-        "thread_count": 3
+        "views": "684",
+        "thread_count": 2
     },
     {
         "link": "https://aimware.net/forum/thread/157959",
@@ -26,8 +26,8 @@
         "author_link": "https://aimware.net/forum/user/217577",
         "author_group": "vip",
         "replies": "6",
-        "views": "347",
-        "thread_count": 2
+        "views": "348",
+        "thread_count": 1
     },
     {
         "link": "https://aimware.net/forum/thread/157761",
@@ -36,8 +36,8 @@
         "author_link": "https://aimware.net/forum/user/365628",
         "author_group": "vip",
         "replies": "1",
-        "views": "28528",
-        "thread_count": 4
+        "views": "28529",
+        "thread_count": 2
     },
     {
         "link": "https://aimware.net/forum/thread/157907",
@@ -46,8 +46,8 @@
         "author_link": "https://aimware.net/forum/user/472466",
         "author_group": "vip",
         "replies": "5",
-        "views": "492",
-        "thread_count": 2
+        "views": "493",
+        "thread_count": 1
     },
     {
         "link": "https://aimware.net/forum/thread/157937",
@@ -56,8 +56,8 @@
         "author_link": "https://aimware.net/forum/user/283534",
         "author_group": "vip",
         "replies": "6",
-        "views": "256",
-        "thread_count": 12
+        "views": "257",
+        "thread_count": 7
     },
     {
         "link": "https://aimware.net/forum/thread/157762",
@@ -67,7 +67,7 @@
         "author_group": "vip",
         "replies": "8",
         "views": "720",
-        "thread_count": 12
+        "thread_count": 7
     },
     {
         "link": "https://aimware.net/forum/thread/157763",
@@ -77,7 +77,7 @@
         "author_group": "vip",
         "replies": "5",
         "views": "735",
-        "thread_count": 12
+        "thread_count": 7
     },
     {
         "link": "https://aimware.net/forum/thread/106496",
@@ -87,7 +87,7 @@
         "author_group": "beta",
         "replies": "52",
         "views": "17462",
-        "thread_count": 15
+        "thread_count": 14
     },
     {
         "link": "https://aimware.net/forum/thread/155472",
@@ -97,7 +97,7 @@
         "author_group": "vip",
         "replies": "2",
         "views": "965",
-        "thread_count": 12
+        "thread_count": 11
     },
     {
         "link": "https://aimware.net/forum/thread/145882",
@@ -107,7 +107,7 @@
         "author_group": "vip",
         "replies": "6",
         "views": "2723",
-        "thread_count": 9
+        "thread_count": 8
     },
     {
         "link": "https://aimware.net/forum/thread/157834",
@@ -117,7 +117,7 @@
         "author_group": "vip",
         "replies": "7",
         "views": "429",
-        "thread_count": 12
+        "thread_count": 7
     },
     {
         "link": "https://aimware.net/forum/thread/128883",
@@ -127,209 +127,9 @@
         "author_group": "vip",
         "replies": "23",
         "views": "11865",
-        "thread_count": 4
-    },
-    {
-        "link": "https://aimware.net/forum/thread/156137",
-        "title": "[Release] Skybox Chams",
-        "author": "stacky",
-        "author_link": "https://aimware.net/forum/user/218912",
-        "author_group": "beta",
-        "replies": "23",
-        "views": "2450",
-        "thread_count": 23
-    },
-    {
-        "link": "https://aimware.net/forum/thread/157810",
-        "title": "[Release] [L4D2] Auto Kick Dead Survivors",
-        "author": "MegaReuploads",
-        "author_link": "https://aimware.net/forum/user/365628",
-        "author_group": "vip",
-        "replies": "0",
-        "views": "223",
-        "thread_count": 4
-    },
-    {
-        "link": "https://aimware.net/forum/thread/152480",
-        "title": "[Release] Light Effect Under Foot",
-        "author": "2878713023",
-        "author_link": "https://aimware.net/forum/user/366789",
-        "author_group": "vip",
-        "replies": "21",
-        "views": "3718",
-        "thread_count": 34
-    },
-    {
-        "link": "https://aimware.net/forum/thread/134428",
-        "title": "[Release] Space Skybox Pack",
-        "author": "Ronos",
-        "author_link": "https://aimware.net/forum/user/272168",
-        "author_group": "vip",
-        "replies": "43",
-        "views": "11193",
-        "thread_count": 2
-    },
-    {
-        "link": "https://aimware.net/forum/thread/155354",
-        "title": " [Release] Model Changer",
-        "author": "2878713023",
-        "author_link": "https://aimware.net/forum/user/366789",
-        "author_group": "vip",
-        "replies": "27",
-        "views": "5193",
-        "thread_count": 34
-    },
-    {
-        "link": "https://aimware.net/forum/thread/157582",
-        "title": "[Release] Roll AA or just Extended Desync (1.2.0)",
-        "author": "GLadiator",
-        "author_link": "https://aimware.net/forum/user/217618",
-        "author_group": "vip",
-        "replies": "43",
-        "views": "4578",
-        "thread_count": 8
-    },
-    {
-        "link": "https://aimware.net/forum/thread/149882",
-        "title": "[Release] Aimware Lobbies 2",
-        "author": "Trollface7272",
-        "author_link": "https://aimware.net/forum/user/269226",
-        "author_group": "vip",
-        "replies": "89",
-        "views": "17774",
-        "thread_count": 7
-    },
-    {
-        "link": "https://aimware.net/forum/thread/157860",
-        "title": "[Release] Skeleton On Hit",
-        "author": "Verieth",
-        "author_link": "https://aimware.net/forum/user/283534",
-        "author_group": "vip",
-        "replies": "2",
-        "views": "456",
-        "thread_count": 12
-    },
-    {
-        "link": "https://aimware.net/forum/thread/157722",
-        "title": "[Release] World Cross Hitmarker",
-        "author": "hubertus_tutel",
-        "author_link": "https://aimware.net/forum/user/471999",
-        "author_group": "beta",
-        "replies": "2",
-        "views": "682",
         "thread_count": 3
     },
     {
-        "link": "https://aimware.net/forum/thread/157959",
-        "title": "[Release] Movement Pack",
-        "author": "w1ldac3",
-        "author_link": "https://aimware.net/forum/user/217577",
-        "author_group": "vip",
-        "replies": "6",
-        "views": "347",
-        "thread_count": 2
-    },
-    {
-        "link": "https://aimware.net/forum/thread/157761",
-        "title": "[Release] [L4D2] B&W GUI Indicator",
-        "author": "MegaReuploads",
-        "author_link": "https://aimware.net/forum/user/365628",
-        "author_group": "vip",
-        "replies": "1",
-        "views": "28528",
-        "thread_count": 4
-    },
-    {
-        "link": "https://aimware.net/forum/thread/157907",
-        "title": "[Release] Keybind ",
-        "author": "Tema2021",
-        "author_link": "https://aimware.net/forum/user/472466",
-        "author_group": "vip",
-        "replies": "5",
-        "views": "492",
-        "thread_count": 2
-    },
-    {
-        "link": "https://aimware.net/forum/thread/157937",
-        "title": "[Release] HeartMarker Heart Hit Marker",
-        "author": "Verieth",
-        "author_link": "https://aimware.net/forum/user/283534",
-        "author_group": "vip",
-        "replies": "6",
-        "views": "256",
-        "thread_count": 12
-    },
-    {
-        "link": "https://aimware.net/forum/thread/157762",
-        "title": "[Release] Animated Damage-Marker",
-        "author": "Verieth",
-        "author_link": "https://aimware.net/forum/user/283534",
-        "author_group": "vip",
-        "replies": "8",
-        "views": "720",
-        "thread_count": 12
-    },
-    {
-        "link": "https://aimware.net/forum/thread/157763",
-        "title": "[Release] Animated Circle Hitmarker",
-        "author": "Verieth",
-        "author_link": "https://aimware.net/forum/user/283534",
-        "author_group": "vip",
-        "replies": "5",
-        "views": "735",
-        "thread_count": 12
-    },
-    {
-        "link": "https://aimware.net/forum/thread/106496",
-        "title": "[Release] Bomb Info [V5]",
-        "author": "Cheeseot",
-        "author_link": "https://aimware.net/forum/user/215088",
-        "author_group": "beta",
-        "replies": "52",
-        "views": "17462",
-        "thread_count": 15
-    },
-    {
-        "link": "https://aimware.net/forum/thread/155472",
-        "title": "[Release] Doubletap Speed Indicator",
-        "author": "LowKey",
-        "author_link": "https://aimware.net/forum/user/71838",
-        "author_group": "vip",
-        "replies": "2",
-        "views": "965",
-        "thread_count": 12
-    },
-    {
-        "link": "https://aimware.net/forum/thread/145882",
-        "title": "[Release] Adaptive FPS saver",
-        "author": "Squidoodle",
-        "author_link": "https://aimware.net/forum/user/305824",
-        "author_group": "vip",
-        "replies": "6",
-        "views": "2723",
-        "thread_count": 9
-    },
-    {
-        "link": "https://aimware.net/forum/thread/157834",
-        "title": "[Release] Animated Hitlogs (Under crosshair \\ Default)",
-        "author": "Verieth",
-        "author_link": "https://aimware.net/forum/user/283534",
-        "author_group": "vip",
-        "replies": "7",
-        "views": "429",
-        "thread_count": 12
-    },
-    {
-        "link": "https://aimware.net/forum/thread/128883",
-        "title": "[Release] OriLua",
-        "author": "OriginalLuzog",
-        "author_link": "https://aimware.net/forum/user/316440",
-        "author_group": "vip",
-        "replies": "23",
-        "views": "11865",
-        "thread_count": 4
-    },
-    {
         "link": "https://aimware.net/forum/thread/156137",
         "title": "[Release] Skybox Chams",
         "author": "stacky",
@@ -337,7 +137,7 @@
         "author_group": "beta",
         "replies": "23",
         "views": "2450",
-        "thread_count": 23
+        "thread_count": 22
     },
     {
         "link": "https://aimware.net/forum/thread/157810",
@@ -347,7 +147,7 @@
         "author_group": "vip",
         "replies": "0",
         "views": "223",
-        "thread_count": 4
+        "thread_count": 2
     },
     {
         "link": "https://aimware.net/forum/thread/152480",
@@ -357,7 +157,7 @@
         "author_group": "vip",
         "replies": "21",
         "views": "3718",
-        "thread_count": 34
+        "thread_count": 32
     },
     {
         "link": "https://aimware.net/forum/thread/134428",
@@ -367,7 +167,7 @@
         "author_group": "vip",
         "replies": "43",
         "views": "11193",
-        "thread_count": 2
+        "thread_count": 1
     },
     {
         "link": "https://aimware.net/forum/thread/155354",
@@ -377,7 +177,7 @@
         "author_group": "vip",
         "replies": "27",
         "views": "5193",
-        "thread_count": 34
+        "thread_count": 32
     },
     {
         "link": "https://aimware.net/forum/thread/157582",
@@ -386,8 +186,8 @@
         "author_link": "https://aimware.net/forum/user/217618",
         "author_group": "vip",
         "replies": "43",
-        "views": "4578",
-        "thread_count": 8
+        "views": "4589",
+        "thread_count": 7
     },
     {
         "link": "https://aimware.net/forum/thread/149882",
@@ -397,7 +197,7 @@
         "author_group": "vip",
         "replies": "89",
         "views": "17774",
-        "thread_count": 7
+        "thread_count": 6
     },
     {
         "link": "https://aimware.net/forum/thread/157254",
@@ -407,7 +207,7 @@
         "author_group": "vip",
         "replies": "10",
         "views": "969",
-        "thread_count": 12
+        "thread_count": 7
     },
     {
         "link": "https://aimware.net/forum/thread/155793",
@@ -417,7 +217,7 @@
         "author_group": "beta",
         "replies": "108",
         "views": "17097",
-        "thread_count": 3
+        "thread_count": 2
     },
     {
         "link": "https://aimware.net/forum/thread/156039",
@@ -427,7 +227,7 @@
         "author_group": "vip",
         "replies": "81",
         "views": "10131",
-        "thread_count": 12
+        "thread_count": 7
     },
     {
         "link": "https://aimware.net/forum/thread/156248",
@@ -447,7 +247,7 @@
         "author_group": "vip",
         "replies": "13",
         "views": "1583",
-        "thread_count": 8
+        "thread_count": 7
     },
     {
         "link": "https://aimware.net/forum/thread/154864",
@@ -467,7 +267,7 @@
         "author_group": "vip",
         "replies": "15",
         "views": "2374",
-        "thread_count": 34
+        "thread_count": 32
     },
     {
         "link": "https://aimware.net/forum/thread/157471",
@@ -497,7 +297,7 @@
         "author_group": "vip",
         "replies": "219",
         "views": "27064",
-        "thread_count": 8
+        "thread_count": 7
     },
     {
         "link": "https://aimware.net/forum/thread/154062",
@@ -507,7 +307,7 @@
         "author_group": "vip",
         "replies": "20",
         "views": "4990",
-        "thread_count": 8
+        "thread_count": 7
     },
     {
         "link": "https://aimware.net/forum/thread/147129",
@@ -547,7 +347,7 @@
         "author_group": "vip",
         "replies": "6",
         "views": "3828",
-        "thread_count": 34
+        "thread_count": 32
     },
     {
         "link": "https://aimware.net/forum/thread/152705",
@@ -566,8 +366,8 @@
         "author_link": "https://aimware.net/forum/user/218912",
         "author_group": "beta",
         "replies": "22",
-        "views": "3296",
-        "thread_count": 23
+        "views": "3297",
+        "thread_count": 22
     },
     {
         "link": "https://aimware.net/forum/thread/148357",
@@ -587,7 +387,7 @@
         "author_group": "vip",
         "replies": "29",
         "views": "10241",
-        "thread_count": 34
+        "thread_count": 32
     },
     {
         "link": "https://aimware.net/forum/thread/149689",
@@ -607,7 +407,7 @@
         "author_group": "beta",
         "replies": "9",
         "views": "1232",
-        "thread_count": 23
+        "thread_count": 22
     },
     {
         "link": "https://aimware.net/forum/thread/155973",
@@ -617,7 +417,7 @@
         "author_group": "vip",
         "replies": "8",
         "views": "2171",
-        "thread_count": 8
+        "thread_count": 7
     },
     {
         "link": "https://aimware.net/forum/thread/128468",
@@ -627,7 +427,7 @@
         "author_group": "beta",
         "replies": "311",
         "views": "67786",
-        "thread_count": 23
+        "thread_count": 22
     },
     {
         "link": "https://aimware.net/forum/thread/147673",
@@ -636,7 +436,7 @@
         "author_link": "https://aimware.net/forum/user/366321",
         "author_group": "vip",
         "replies": "29",
-        "views": "7371",
+        "views": "7372",
         "thread_count": 1
     },
     {
@@ -666,7 +466,7 @@
         "author_link": "https://aimware.net/forum/user/225402",
         "author_group": "vip",
         "replies": "3",
-        "views": "1419",
+        "views": "1420",
         "thread_count": 8
     },
     {
@@ -747,7 +547,7 @@
         "author_group": "vip",
         "replies": "13",
         "views": "2405",
-        "thread_count": 34
+        "thread_count": 32
     },
     {
         "link": "https://aimware.net/forum/thread/148933",
@@ -756,7 +556,7 @@
         "author_link": "https://aimware.net/forum/user/70416",
         "author_group": "vip",
         "replies": "14",
-        "views": "2675",
+        "views": "2676",
         "thread_count": 1
     },
     {
@@ -767,7 +567,7 @@
         "author_group": "vip",
         "replies": "12",
         "views": "2635",
-        "thread_count": 34
+        "thread_count": 32
     },
     {
         "link": "https://aimware.net/forum/thread/152667",
@@ -796,7 +596,7 @@
         "author_link": "https://aimware.net/forum/user/17687",
         "author_group": "vip",
         "replies": "60",
-        "views": "17996",
+        "views": "17997",
         "thread_count": 28
     },
     {
@@ -817,7 +617,7 @@
         "author_group": "vip",
         "replies": "17",
         "views": "7284",
-        "thread_count": 34
+        "thread_count": 32
     },
     {
         "link": "https://aimware.net/forum/thread/135982",
@@ -856,7 +656,7 @@
         "author_link": "https://aimware.net/forum/user/174726",
         "author_group": "vip",
         "replies": "82",
-        "views": "21016",
+        "views": "21017",
         "thread_count": 1
     },
     {
@@ -867,7 +667,7 @@
         "author_group": "vip",
         "replies": "12",
         "views": "3346",
-        "thread_count": 5
+        "thread_count": 7
     },
     {
         "link": "https://aimware.net/forum/thread/150673",
@@ -877,7 +677,7 @@
         "author_group": "vip",
         "replies": "14",
         "views": "2815",
-        "thread_count": 6
+        "thread_count": 8
     },
     {
         "link": "https://aimware.net/forum/thread/154949",
@@ -887,7 +687,7 @@
         "author_group": "vip",
         "replies": "29",
         "views": "5616",
-        "thread_count": 8
+        "thread_count": 7
     },
     {
         "link": "https://aimware.net/forum/thread/147578",
@@ -897,7 +697,7 @@
         "author_group": "vip",
         "replies": "11",
         "views": "5702",
-        "thread_count": 12
+        "thread_count": 11
     },
     {
         "link": "https://aimware.net/forum/thread/151792",
@@ -967,7 +767,7 @@
         "author_group": "vip",
         "replies": "9",
         "views": "3667",
-        "thread_count": 12
+        "thread_count": 11
     },
     {
         "link": "https://aimware.net/forum/thread/141663",
@@ -997,7 +797,7 @@
         "author_group": "vip",
         "replies": "18",
         "views": "5857",
-        "thread_count": 34
+        "thread_count": 32
     },
     {
         "link": "https://aimware.net/forum/thread/154129",
@@ -1027,7 +827,7 @@
         "author_group": "vip",
         "replies": "38",
         "views": "10014",
-        "thread_count": 34
+        "thread_count": 32
     },
     {
         "link": "https://aimware.net/forum/thread/135993",
@@ -1067,7 +867,7 @@
         "author_group": "vip",
         "replies": "26",
         "views": "6434",
-        "thread_count": 12
+        "thread_count": 11
     },
     {
         "link": "https://aimware.net/forum/thread/133749",
@@ -1097,7 +897,7 @@
         "author_group": "vip",
         "replies": "2",
         "views": "1356",
-        "thread_count": 8
+        "thread_count": 7
     },
     {
         "link": "https://aimware.net/forum/thread/154648",
@@ -1137,7 +937,7 @@
         "author_group": "vip",
         "replies": "6",
         "views": "1419",
-        "thread_count": 34
+        "thread_count": 32
     },
     {
         "link": "https://aimware.net/forum/thread/154263",
@@ -1187,7 +987,7 @@
         "author_group": "vip",
         "replies": "3",
         "views": "1118",
-        "thread_count": 34
+        "thread_count": 32
     },
     {
         "link": "https://aimware.net/forum/thread/132699",
@@ -1197,7 +997,7 @@
         "author_group": "beta",
         "replies": "24",
         "views": "8542",
-        "thread_count": 23
+        "thread_count": 22
     },
     {
         "link": "https://aimware.net/forum/thread/148158",
@@ -1226,7 +1026,7 @@
         "author_link": "https://aimware.net/forum/user/119901",
         "author_group": "vip",
         "replies": "11",
-        "views": "3270",
+        "views": "3271",
         "thread_count": 9
     },
     {
@@ -1236,7 +1036,7 @@
         "author_link": "https://aimware.net/forum/user/119901",
         "author_group": "vip",
         "replies": "9",
-        "views": "3789",
+        "views": "3790",
         "thread_count": 9
     },
     {
@@ -1257,7 +1057,7 @@
         "author_group": "vip",
         "replies": "8",
         "views": "2000",
-        "thread_count": 7
+        "thread_count": 6
     },
     {
         "link": "https://aimware.net/forum/thread/146535",
@@ -1267,7 +1067,7 @@
         "author_group": "vip",
         "replies": "32",
         "views": "9917",
-        "thread_count": 12
+        "thread_count": 11
     },
     {
         "link": "https://aimware.net/forum/thread/130961",
@@ -1297,7 +1097,7 @@
         "author_group": "vip",
         "replies": "12",
         "views": "4034",
-        "thread_count": 34
+        "thread_count": 32
     },
     {
         "link": "https://aimware.net/forum/thread/153508",
@@ -1377,7 +1177,7 @@
         "author_group": "vip",
         "replies": "14",
         "views": "2736",
-        "thread_count": 9
+        "thread_count": 8
     },
     {
         "link": "https://aimware.net/forum/thread/151129",
@@ -1437,7 +1237,7 @@
         "author_group": "vip",
         "replies": "8",
         "views": "3101",
-        "thread_count": 7
+        "thread_count": 6
     },
     {
         "link": "https://aimware.net/forum/thread/152987",
@@ -1517,7 +1317,7 @@
         "author_group": "beta",
         "replies": "12",
         "views": "2354",
-        "thread_count": 23
+        "thread_count": 22
     },
     {
         "link": "https://aimware.net/forum/thread/151465",
@@ -1537,7 +1337,7 @@
         "author_group": "vip",
         "replies": "23",
         "views": "3015",
-        "thread_count": 9
+        "thread_count": 8
     },
     {
         "link": "https://aimware.net/forum/thread/152275",
@@ -1557,7 +1357,7 @@
         "author_group": "vip",
         "replies": "9",
         "views": "1865",
-        "thread_count": 34
+        "thread_count": 32
     },
     {
         "link": "https://aimware.net/forum/thread/152284",
@@ -1567,7 +1367,7 @@
         "author_group": "vip",
         "replies": "7",
         "views": "1693",
-        "thread_count": 34
+        "thread_count": 32
     },
     {
         "link": "https://aimware.net/forum/thread/152276",
@@ -1577,7 +1377,7 @@
         "author_group": "vip",
         "replies": "10",
         "views": "1888",
-        "thread_count": 9
+        "thread_count": 8
     },
     {
         "link": "https://aimware.net/forum/thread/152203",
@@ -1587,7 +1387,7 @@
         "author_group": "vip",
         "replies": "7",
         "views": "1775",
-        "thread_count": 34
+        "thread_count": 32
     },
     {
         "link": "https://aimware.net/forum/thread/152199",
@@ -1597,7 +1397,7 @@
         "author_group": "beta",
         "replies": "9",
         "views": "2314",
-        "thread_count": 15
+        "thread_count": 14
     },
     {
         "link": "https://aimware.net/forum/thread/128054",
@@ -1636,8 +1436,8 @@
         "author_link": "https://aimware.net/forum/user/218912",
         "author_group": "beta",
         "replies": "21",
-        "views": "5874",
-        "thread_count": 23
+        "views": "5875",
+        "thread_count": 22
     },
     {
         "link": "https://aimware.net/forum/thread/151741",
@@ -1677,7 +1477,7 @@
         "author_group": "vip",
         "replies": "2",
         "views": "746",
-        "thread_count": 7
+        "thread_count": 6
     },
     {
         "link": "https://aimware.net/forum/thread/151770",
@@ -1687,7 +1487,7 @@
         "author_group": "vip",
         "replies": "8",
         "views": "1875",
-        "thread_count": 12
+        "thread_count": 11
     },
     {
         "link": "https://aimware.net/forum/thread/151739",
@@ -1717,7 +1517,7 @@
         "author_group": "vip",
         "replies": "5",
         "views": "2146",
-        "thread_count": 7
+        "thread_count": 6
     },
     {
         "link": "https://aimware.net/forum/thread/151675",
@@ -1817,7 +1617,7 @@
         "author_group": "vip",
         "replies": "31",
         "views": "5371",
-        "thread_count": 34
+        "thread_count": 32
     },
     {
         "link": "https://aimware.net/forum/thread/151226",
@@ -1827,7 +1627,7 @@
         "author_group": "vip",
         "replies": "4",
         "views": "1458",
-        "thread_count": 12
+        "thread_count": 11
     },
     {
         "link": "https://aimware.net/forum/thread/148350",
@@ -1846,8 +1646,8 @@
         "author_link": "https://aimware.net/forum/user/366789",
         "author_group": "vip",
         "replies": "4",
-        "views": "1686",
-        "thread_count": 34
+        "views": "1687",
+        "thread_count": 32
     },
     {
         "link": "https://aimware.net/forum/thread/148228",
@@ -1877,7 +1677,7 @@
         "author_group": "vip",
         "replies": "1",
         "views": "1450",
-        "thread_count": 34
+        "thread_count": 32
     },
     {
         "link": "https://aimware.net/forum/thread/151019",
@@ -1906,7 +1706,7 @@
         "author_link": "https://aimware.net/forum/user/278590",
         "author_group": "vip",
         "replies": "8",
-        "views": "2961",
+        "views": "2962",
         "thread_count": 2
     },
     {
@@ -1927,7 +1727,7 @@
         "author_group": "vip",
         "replies": "2",
         "views": "970",
-        "thread_count": 12
+        "thread_count": 11
     },
     {
         "link": "https://aimware.net/forum/thread/150746",
@@ -1947,7 +1747,7 @@
         "author_group": "beta",
         "replies": "15",
         "views": "2633",
-        "thread_count": 15
+        "thread_count": 14
     },
     {
         "link": "https://aimware.net/forum/thread/150071",
@@ -1997,7 +1797,7 @@
         "author_group": "vip",
         "replies": "11",
         "views": "2305",
-        "thread_count": 34
+        "thread_count": 32
     },
     {
         "link": "https://aimware.net/forum/thread/142838",
@@ -2007,7 +1807,7 @@
         "author_group": "vip",
         "replies": "12",
         "views": "3493",
-        "thread_count": 7
+        "thread_count": 6
     },
     {
         "link": "https://aimware.net/forum/thread/150512",
@@ -2017,7 +1817,7 @@
         "author_group": "vip",
         "replies": "5",
         "views": "1358",
-        "thread_count": 34
+        "thread_count": 32
     },
     {
         "link": "https://aimware.net/forum/thread/150285",
@@ -2027,7 +1827,7 @@
         "author_group": "vip",
         "replies": "5",
         "views": "2188",
-        "thread_count": 34
+        "thread_count": 32
     },
     {
         "link": "https://aimware.net/forum/thread/148375",
@@ -2037,7 +1837,7 @@
         "author_group": "vip",
         "replies": "9",
         "views": "3418",
-        "thread_count": 34
+        "thread_count": 32
     },
     {
         "link": "https://aimware.net/forum/thread/150149",
@@ -2047,7 +1847,7 @@
         "author_group": "vip",
         "replies": "9",
         "views": "1942",
-        "thread_count": 34
+        "thread_count": 32
     },
     {
         "link": "https://aimware.net/forum/thread/149964",
@@ -2057,7 +1857,7 @@
         "author_group": "vip",
         "replies": "9",
         "views": "2804",
-        "thread_count": 12
+        "thread_count": 11
     },
     {
         "link": "https://aimware.net/forum/thread/150428",
@@ -2157,7 +1957,7 @@
         "author_group": "beta",
         "replies": "21",
         "views": "6205",
-        "thread_count": 23
+        "thread_count": 22
     },
     {
         "link": "https://aimware.net/forum/thread/138638",
@@ -2176,7 +1976,7 @@
         "author_link": "https://aimware.net/forum/user/17687",
         "author_group": "vip",
         "replies": "14",
-        "views": "4993",
+        "views": "4994",
         "thread_count": 28
     },
     {
@@ -2207,7 +2007,7 @@
         "author_group": "beta",
         "replies": "19",
         "views": "5413",
-        "thread_count": 15
+        "thread_count": 14
     },
     {
         "link": "https://aimware.net/forum/thread/130841",
@@ -2246,7 +2046,7 @@
         "author_link": "https://aimware.net/forum/user/367379",
         "author_group": "banned",
         "replies": "7",
-        "views": "3291",
+        "views": "3292",
         "thread_count": 1
     },
     {
@@ -2317,7 +2117,7 @@
         "author_group": "vip",
         "replies": "11",
         "views": "3219",
-        "thread_count": 9
+        "thread_count": 8
     },
     {
         "link": "https://aimware.net/forum/thread/148544",
@@ -2347,7 +2147,7 @@
         "author_group": "vip",
         "replies": "2",
         "views": "1773",
-        "thread_count": 34
+        "thread_count": 32
     },
     {
         "link": "https://aimware.net/forum/thread/148493",
@@ -2387,7 +2187,7 @@
         "author_group": "vip",
         "replies": "20",
         "views": "2896",
-        "thread_count": 9
+        "thread_count": 8
     },
     {
         "link": "https://aimware.net/forum/thread/148389",
@@ -2397,7 +2197,7 @@
         "author_group": "vip",
         "replies": "1",
         "views": "426",
-        "thread_count": 34
+        "thread_count": 32
     },
     {
         "link": "https://aimware.net/forum/thread/115494",
@@ -2407,7 +2207,7 @@
         "author_group": "beta",
         "replies": "8",
         "views": "1671",
-        "thread_count": 15
+        "thread_count": 14
     },
     {
         "link": "https://aimware.net/forum/thread/139054",
@@ -2427,7 +2227,7 @@
         "author_group": "beta",
         "replies": "13",
         "views": "2090",
-        "thread_count": 23
+        "thread_count": 22
     },
     {
         "link": "https://aimware.net/forum/thread/148202",
@@ -2436,7 +2236,7 @@
         "author_link": "https://aimware.net/forum/user/174137",
         "author_group": "vip",
         "replies": "2",
-        "views": "1646",
+        "views": "1647",
         "thread_count": 14
     },
     {
@@ -2467,7 +2267,7 @@
         "author_group": "vip",
         "replies": "24",
         "views": "8203",
-        "thread_count": 34
+        "thread_count": 32
     },
     {
         "link": "https://aimware.net/forum/thread/147789",
@@ -2477,7 +2277,7 @@
         "author_group": "vip",
         "replies": "4",
         "views": "1360",
-        "thread_count": 34
+        "thread_count": 32
     },
     {
         "link": "https://aimware.net/forum/thread/145366",
@@ -2507,7 +2307,7 @@
         "author_group": "vip",
         "replies": "10",
         "views": "1910",
-        "thread_count": 34
+        "thread_count": 32
     },
     {
         "link": "https://aimware.net/forum/thread/147799",
@@ -2517,7 +2317,7 @@
         "author_group": "vip",
         "replies": "13",
         "views": "2026",
-        "thread_count": 34
+        "thread_count": 32
     },
     {
         "link": "https://aimware.net/forum/thread/128278",
@@ -2537,7 +2337,7 @@
         "author_group": "vip",
         "replies": "4",
         "views": "959",
-        "thread_count": 34
+        "thread_count": 32
     },
     {
         "link": "https://aimware.net/forum/thread/147716",
@@ -2557,7 +2357,7 @@
         "author_group": "vip",
         "replies": "1",
         "views": "939",
-        "thread_count": 34
+        "thread_count": 32
     },
     {
         "link": "https://aimware.net/forum/thread/147456",
@@ -2567,7 +2367,7 @@
         "author_group": "vip",
         "replies": "7",
         "views": "1396",
-        "thread_count": 9
+        "thread_count": 8
     },
     {
         "link": "https://aimware.net/forum/thread/146766",
@@ -2977,7 +2777,7 @@
         "author_group": "beta",
         "replies": "8",
         "views": "2455",
-        "thread_count": 23
+        "thread_count": 22
     },
     {
         "link": "https://aimware.net/forum/thread/130955",
@@ -3007,7 +2807,7 @@
         "author_group": "vip",
         "replies": "6",
         "views": "2656",
-        "thread_count": 12
+        "thread_count": 11
     },
     {
         "link": "https://aimware.net/forum/thread/144815",
@@ -3027,7 +2827,7 @@
         "author_group": "beta",
         "replies": "18",
         "views": "3414",
-        "thread_count": 23
+        "thread_count": 22
     },
     {
         "link": "https://aimware.net/forum/thread/144793",
@@ -3047,7 +2847,7 @@
         "author_group": "vip",
         "replies": "3",
         "views": "1423",
-        "thread_count": 9
+        "thread_count": 8
     },
     {
         "link": "https://aimware.net/forum/thread/144745",
@@ -3137,7 +2937,7 @@
         "author_group": "beta",
         "replies": "63",
         "views": "9362",
-        "thread_count": 23
+        "thread_count": 22
     },
     {
         "link": "https://aimware.net/forum/thread/144038",
@@ -3167,7 +2967,7 @@
         "author_group": "vip",
         "replies": "9",
         "views": "2743",
-        "thread_count": 12
+        "thread_count": 11
     },
     {
         "link": "https://aimware.net/forum/thread/143422",
@@ -3277,7 +3077,7 @@
         "author_group": "beta",
         "replies": "8",
         "views": "2213",
-        "thread_count": 23
+        "thread_count": 22
     },
     {
         "link": "https://aimware.net/forum/thread/140581",
@@ -3507,7 +3307,7 @@
         "author_group": "beta",
         "replies": "10",
         "views": "2210",
-        "thread_count": 15
+        "thread_count": 14
     },
     {
         "link": "https://aimware.net/forum/thread/132175",
@@ -3527,7 +3327,7 @@
         "author_group": "vip",
         "replies": "6",
         "views": "2292",
-        "thread_count": 4
+        "thread_count": 3
     },
     {
         "link": "https://aimware.net/forum/thread/135715",
@@ -3547,7 +3347,7 @@
         "author_group": "beta",
         "replies": "18",
         "views": "3936",
-        "thread_count": 15
+        "thread_count": 14
     },
     {
         "link": "https://aimware.net/forum/thread/139120",
@@ -3737,7 +3537,7 @@
         "author_group": "beta",
         "replies": "10",
         "views": "3737",
-        "thread_count": 23
+        "thread_count": 22
     },
     {
         "link": "https://aimware.net/forum/thread/135160",
@@ -3827,7 +3627,7 @@
         "author_group": "beta",
         "replies": "9",
         "views": "1475",
-        "thread_count": 23
+        "thread_count": 22
     },
     {
         "link": "https://aimware.net/forum/thread/134414",
@@ -3847,7 +3647,7 @@
         "author_group": "beta",
         "replies": "7",
         "views": "1960",
-        "thread_count": 23
+        "thread_count": 22
     },
     {
         "link": "https://aimware.net/forum/thread/133983",
@@ -3857,7 +3657,7 @@
         "author_group": "beta",
         "replies": "9",
         "views": "3729",
-        "thread_count": 15
+        "thread_count": 14
     },
     {
         "link": "https://aimware.net/forum/thread/133746",
@@ -3877,7 +3677,7 @@
         "author_group": "beta",
         "replies": "9",
         "views": "1138",
-        "thread_count": 23
+        "thread_count": 22
     },
     {
         "link": "https://aimware.net/forum/thread/133848",
@@ -4037,7 +3837,7 @@
         "author_group": "beta",
         "replies": "3",
         "views": "2368",
-        "thread_count": 23
+        "thread_count": 22
     },
     {
         "link": "https://aimware.net/forum/thread/132607",
@@ -4076,7 +3876,7 @@
         "author_link": "https://aimware.net/forum/user/107672",
         "author_group": "vip",
         "replies": "4",
-        "views": "1546",
+        "views": "1547",
         "thread_count": 1
     },
     {
@@ -4127,7 +3927,7 @@
         "author_group": "beta",
         "replies": "11",
         "views": "2703",
-        "thread_count": 15
+        "thread_count": 14
     },
     {
         "link": "https://aimware.net/forum/thread/131366",
@@ -4187,7 +3987,7 @@
         "author_group": "beta",
         "replies": "4",
         "views": "690",
-        "thread_count": 23
+        "thread_count": 22
     },
     {
         "link": "https://aimware.net/forum/thread/129180",
@@ -4277,7 +4077,7 @@
         "author_group": "beta",
         "replies": "5",
         "views": "1998",
-        "thread_count": 23
+        "thread_count": 22
     },
     {
         "link": "https://aimware.net/forum/thread/120558",
@@ -4286,7 +4086,7 @@
         "author_link": "https://aimware.net/forum/user/226535",
         "author_group": "vip",
         "replies": "8",
-        "views": "3573",
+        "views": "3574",
         "thread_count": 13
     },
     {
@@ -4307,7 +4107,7 @@
         "author_group": "beta",
         "replies": "3",
         "views": "1249",
-        "thread_count": 23
+        "thread_count": 22
     },
     {
         "link": "https://aimware.net/forum/thread/129686",
@@ -4377,7 +4177,7 @@
         "author_group": "beta",
         "replies": "13",
         "views": "6154",
-        "thread_count": 15
+        "thread_count": 14
     },
     {
         "link": "https://aimware.net/forum/thread/129293",
@@ -4457,7 +4257,7 @@
         "author_group": "beta",
         "replies": "13",
         "views": "1367",
-        "thread_count": 15
+        "thread_count": 14
     },
     {
         "link": "https://aimware.net/forum/thread/128935",
@@ -4507,7 +4307,7 @@
         "author_group": "beta",
         "replies": "10",
         "views": "3280",
-        "thread_count": 15
+        "thread_count": 14
     },
     {
         "link": "https://aimware.net/forum/thread/128766",
@@ -4516,7 +4316,7 @@
         "author_link": "https://aimware.net/forum/user/252703",
         "author_group": "vip",
         "replies": "0",
-        "views": "453",
+        "views": "454",
         "thread_count": 1
     },
     {
@@ -4857,7 +4657,7 @@
         "author_group": "vip",
         "replies": "16",
         "views": "2404",
-        "thread_count": 4
+        "thread_count": 3
     },
     {
         "link": "https://aimware.net/forum/thread/121248",
@@ -4877,7 +4677,7 @@
         "author_group": "beta",
         "replies": "8",
         "views": "2827",
-        "thread_count": 15
+        "thread_count": 14
     },
     {
         "link": "https://aimware.net/forum/thread/120619",
@@ -4947,7 +4747,7 @@
         "author_group": "vip",
         "replies": "16",
         "views": "3657",
-        "thread_count": 6
+        "thread_count": 8
     },
     {
         "link": "https://aimware.net/forum/thread/114700",
@@ -5017,7 +4817,7 @@
         "author_group": "vip",
         "replies": "29",
         "views": "7937",
-        "thread_count": 2
+        "thread_count": 3
     },
     {
         "link": "https://aimware.net/forum/thread/115491",
@@ -5117,7 +4917,7 @@
         "author_group": "vip",
         "replies": "4",
         "views": "1332",
-        "thread_count": 2
+        "thread_count": 3
     },
     {
         "link": "https://aimware.net/forum/thread/91174",
@@ -5127,7 +4927,7 @@
         "author_group": "vip",
         "replies": "6",
         "views": "1525",
-        "thread_count": 6
+        "thread_count": 8
     },
     {
         "link": "https://aimware.net/forum/thread/110640",
@@ -5527,7 +5327,7 @@
         "author_group": "beta",
         "replies": "4",
         "views": "594",
-        "thread_count": 23
+        "thread_count": 22
     },
     {
         "link": "https://aimware.net/forum/thread/98037",
@@ -5547,7 +5347,7 @@
         "author_group": "beta",
         "replies": "3",
         "views": "1228",
-        "thread_count": 15
+        "thread_count": 14
     },
     {
         "link": "https://aimware.net/forum/thread/97236",
@@ -5617,7 +5417,7 @@
         "author_group": "vip",
         "replies": "31",
         "views": "7532",
-        "thread_count": 6
+        "thread_count": 8
     },
     {
         "link": "https://aimware.net/forum/thread/86252",
@@ -5687,7 +5487,7 @@
         "author_group": "vip",
         "replies": "7",
         "views": "930",
-        "thread_count": 6
+        "thread_count": 8
     },
     {
         "link": "https://aimware.net/forum/thread/88003",
@@ -5717,7 +5517,7 @@
         "author_group": "vip",
         "replies": "4",
         "views": "1851",
-        "thread_count": 6
+        "thread_count": 8
     },
     {
         "link": "https://aimware.net/forum/thread/89110",
@@ -5747,7 +5547,7 @@
         "author_group": "vip",
         "replies": "4",
         "views": "884",
-        "thread_count": 5
+        "thread_count": 7
     },
     {
         "link": "https://aimware.net/forum/thread/88372",
@@ -5757,7 +5557,7 @@
         "author_group": "vip",
         "replies": "9",
         "views": "612",
-        "thread_count": 5
+        "thread_count": 7
     },
     {
         "link": "https://aimware.net/forum/thread/88373",
@@ -5767,7 +5567,7 @@
         "author_group": "vip",
         "replies": "5",
         "views": "674",
-        "thread_count": 5
+        "thread_count": 7
     },
     {
         "link": "https://aimware.net/forum/thread/86037",
@@ -5777,7 +5577,7 @@
         "author_group": "vip",
         "replies": "10",
         "views": "3609",
-        "thread_count": 5
+        "thread_count": 7
     },
     {
         "link": "https://aimware.net/forum/thread/87995",
@@ -5797,6 +5597,96 @@
         "author_group": "banned",
         "replies": "11",
         "views": "2242",
+        "thread_count": 2
+    },
+    {
+        "link": "https://aimware.net/forum/thread/87828",
+        "title": "[Release] makeshift aimbot after 1 shot",
+        "author": "zack",
+        "author_link": "https://aimware.net/forum/user/36169",
+        "author_group": "vip",
+        "replies": "2",
+        "views": "676",
+        "thread_count": 8
+    },
+    {
+        "link": "https://aimware.net/forum/thread/86195",
+        "title": "[Release] Disable Fakelag on Revolver/Grenade/Zeus",
+        "author": "velololxd",
+        "author_link": "https://aimware.net/forum/user/200752",
+        "author_group": "banned",
+        "replies": "19",
+        "views": "2168",
+        "thread_count": 2
+    },
+    {
+        "link": "https://aimware.net/forum/thread/87494",
+        "title": "[Release] Roblox OOF simple HitSound",
+        "author": "EURONELSONVALOARE",
+        "author_link": "https://aimware.net/forum/user/117659",
+        "author_group": "vip",
+        "replies": "4",
+        "views": "1232",
+        "thread_count": 1
+    },
+    {
+        "link": "https://aimware.net/forum/thread/87567",
+        "title": "[Release] Hit Say",
+        "author": "zack",
+        "author_link": "https://aimware.net/forum/user/36169",
+        "author_group": "vip",
+        "replies": "8",
+        "views": "1307",
+        "thread_count": 8
+    },
+    {
+        "link": "https://aimware.net/forum/thread/86012",
+        "title": "[Release] Aimware Seizure",
+        "author": "yu0r",
+        "author_link": "https://aimware.net/forum/user/1566",
+        "author_group": "vip",
+        "replies": "11",
+        "views": "4494",
+        "thread_count": 3
+    },
+    {
+        "link": "https://aimware.net/forum/thread/86151",
+        "title": "[Release] LBY Indicator",
+        "author": "password",
+        "author_link": "https://aimware.net/forum/user/201136",
+        "author_group": "vip",
+        "replies": "16",
+        "views": "3049",
+        "thread_count": 7
+    },
+    {
+        "link": "https://aimware.net/forum/thread/86528",
+        "title": "[Release] FakeLag Peek Modes",
+        "author": "password",
+        "author_link": "https://aimware.net/forum/user/201136",
+        "author_group": "vip",
+        "replies": "15",
+        "views": "1076",
+        "thread_count": 7
+    },
+    {
+        "link": "https://aimware.net/forum/thread/86648",
+        "title": "[Release] Latency On Scout Only",
+        "author": "BigTrap",
+        "author_link": "https://aimware.net/forum/user/199285",
+        "author_group": "vip",
+        "replies": "0",
+        "views": "537",
+        "thread_count": 1
+    },
+    {
+        "link": "https://aimware.net/forum/thread/86500",
+        "title": "[Release] Disable AA / Fakelag on round end",
+        "author": "massas",
+        "author_link": "https://aimware.net/forum/user/141074",
+        "author_group": "banned",
+        "replies": "9",
+        "views": "649",
         "thread_count": 1
     }
 ]
