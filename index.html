@@ -152,9 +152,8 @@
         let table = document.getElementsByClassName("js-sort-table")[0]
         let rows = table.getElementsByTagName("tr")
         for (let i = 1; i < rows.length; i++) {
-            console.log(rows[i])
 
-            let title = rows[i].getElementsByTagName("td")[2].innerText.toLowerCase()
+            let title = rows[i].getElementsByTagName("td")[0].innerText.toLowerCase()
             let author = rows[i].getElementsByTagName("td")[1].innerText.toLowerCase()
             if (title.indexOf(search) > -1 || author.indexOf(search) > -1) {
                 rows[i].style.display = ""
@@ -195,12 +194,12 @@
         td_threads.innerText = threads;
         td_group.style.whiteSpace = "nowrap";    
         if (author_group_color === "admin"){
-            td_group.innerHTML = "<span style='color: white'>(b)</span>";
+            td_group.innerHTML = "<span style='color: white'>(a)</span>";
         } else if(author_group_color === "supermod"){
             td_group.innerHTML = "<span style='color: white'>(b)</span>";
-        } else if(author_group_color === "beta"){
-            td_group.innerHTML = "<span style='color: white'> (c)</span";
         } else if(author_group_color === "reseller"){
+            td_group.innerHTML = "<span style='color: white'> (c)</span";
+        } else if(author_group_color === "beta"){
             td_group.innerHTML = "<span style='color: white'> (d)</span";
         } else if(author_group_color === "vip"){
             td_group.innerHTML = "<span style='color: white'> (e)</span";
