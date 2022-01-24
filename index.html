@@ -227,6 +227,7 @@
     fetch('https://raw.githubusercontent.com/RickyyProfile/Scripts-Dashboard/main/threads.json').then(response => {
         return response.json()
     }).then(json => {
+        let sorted = json.slice().sort((a, b) => b.views - a.views);
         for (let i = 0; i < json.length; i++) {
             add_row(
                 json[i].title,
