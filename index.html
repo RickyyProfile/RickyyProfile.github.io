@@ -230,14 +230,14 @@
         let sorted = json.slice().sort((a, b) => b.views - a.views);
         for (let i = 0; i < json.length; i++) {
             add_row(
-                json[i].title,
-                json[i].link,
-                json[i].author, 
-                json[i].author_link, 
-                json[i].author_group, 
-                json[i].views, 
-                json[i].replies,
-                json[i].thread_count
+                sorted[i].title,
+                sorted[i].link,
+                sorted[i].author, 
+                sorted[i].author_link, 
+                sorted[i].author_group, 
+                sorted[i].views, 
+                sorted[i].replies,
+                sorted[i].thread_count
             )
         }
     })
