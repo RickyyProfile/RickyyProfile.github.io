@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Aimware Script List</title>
+    <title>Aimware Script list</title>
     <link rel="icon" type="image/png" href="favicon.svg">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 
@@ -107,7 +107,8 @@
 
 
 <body>
-    <p style="text-align: right;" class="p-0 m-0">Made by 
+    <p style="float: left;" class="p-0 m-0"><b>Total Scripts: <span id="total-scripts" style="color: red;">0</span></b></p>
+    <p style="float: right;" class="p-0 m-0">Made by 
         <span><a class="vip" href="https://aimware.net/forum/user/17687" target="_blank">Chicken4676</a></span>
     </p>
     <div class="container">
@@ -226,9 +227,10 @@
     }
 
 
-    fetch('https://raw.githubusercontent.com/RickyyProfile/RickyyProfile.github.io/main/threads.json').then(response => {
+    fetch('https://raw.githubusercontent.com/RickyyProfile/Scripts-Dashboard/main/threads.json').then(response => {
         return response.json()
     }).then(json => {
+        document.getElementById("total-scripts").innerText = json.length
         for (let i = 0; i < json.length; i++) {
             add_row(
                 json[i].title,
